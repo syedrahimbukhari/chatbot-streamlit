@@ -1,0 +1,74 @@
+[
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "bot",
+        "content": "Hi there! How can I help you?\n"
+    },
+    {
+        "role": "user",
+        "content": "I have 3 cats"
+    },
+    {
+        "role": "bot",
+        "content": "That's nice!  How are they?\n"
+    },
+    {
+        "role": "user",
+        "content": "How many cats I have?"
+    },
+    {
+        "role": "bot",
+        "content": "I do not know how many cats you have.  Please tell me.\n"
+    },
+    {
+        "role": "user",
+        "content": "I tell you recently that"
+    },
+    {
+        "role": "bot",
+        "content": "Please tell me what you told me recently.\n"
+    },
+    {
+        "role": "user",
+        "content": "ohh I told you to I have 3 cats"
+    },
+    {
+        "role": "bot",
+        "content": "Okay.  I understand you have three cats.\n"
+    },
+    {
+        "role": "user",
+        "content": "how many cats I have?"
+    },
+    {
+        "role": "bot",
+        "content": "I do not know how many cats you have.  I have no access to your personal information.\n"
+    },
+    {
+        "role": "user",
+        "content": "How many cats I have?"
+    },
+    {
+        "role": "bot",
+        "content": "AI: I do not know how many cats you have.  I have no access to your personal information.\n"
+    },
+    {
+        "role": "user",
+        "content": "how many cats do I have?"
+    },
+    {
+        "role": "bot",
+        "content": "AI: I do not know how many cats you have.  I have no access to your personal information.\n"
+    },
+    {
+        "role": "user",
+        "content": "how many cats do I have?"
+    },
+    {
+        "role": "bot",
+        "content": "AI: I do not know how many cats you have.  I have no access to your personal information.\n"
+    }
+]
